@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **piyush.tailor.5076@gmail.com**
 
-- 📄 Know about my experiences [https://piyushtailor.vercel.app/assets/Piyush_Tailor_Resume-Bp9wmdbc.pdf](https://piyushtailor.vercel.app/assets/Piyush_Tailor_Resume-Bp9wmdbc.pdf))
+- 📄 Know about my experiences [https://piyushtailor.vercel.app/assets/Piyush_Tailor_Resume-BRetAqUh.pdf](https://piyushtailor.vercel.app/assets/Piyush_Tailor_Resume-BRetAqUh.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <div>
