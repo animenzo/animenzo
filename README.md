@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Piyush Tailor</h1>
 <h3 align="center"Aspiring Full Stack Engineer and third-year Computer Science student with hands-on experience in JavaScript, React, Node.js, and React Native. Passionate about developing real-world applications and contributing to collaborative, growth-oriented environments.</h3>
 
-- 🌱 I’m currently learning **web development, mobile development.**
+- 🌱 I’m currently focused on web and mobile development, building full-stack applications to gain hands-on experience and deepen my understanding of modern technologies.
 
 - 👨‍💻 All of my projects are available at [https://piyushtailor.vercel.app/](https://piyushtailor.vercel.app/)
 
@@ -10,6 +10,7 @@
 - 📄 Know about my experiences [https://piyushtailor.vercel.app/assets/Piyush_Tailor_Resume-Bp9wmdbc.pdf](https://piyushtailor.vercel.app/assets/Piyush_Tailor_Resume-Bp9wmdbc.pdf)
 
 <h3 align="left">Connect with me:</h3>
+<div>
 <p align="left">
 </p>
 <h3 align="left">💻 Languages and Tools:</h3>
@@ -70,4 +71,5 @@
     <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
   </a>
 </p>
+</div>
 
