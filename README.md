@@ -28,11 +28,11 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
   </a>
 </div>
-  <h1>Frontend</h1>
+ 
  <div>
 
  
-   
+    <h3>Frontend</h3>
   <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
   </a>
@@ -46,7 +46,7 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="Tailwind CSS" width="40" height="40"/>
   </a>
   </div>
- <h1>Backend</h1>
+ <h3>Backend</h3>
   <div>
    
   <a href="https://nodejs.org" target="_blank" rel="noreferrer">
@@ -59,7 +59,7 @@
     <img src="https://www.vectorlogo.zone/logos/appwriteio/appwriteio-icon.svg" alt="Appwrite" width="40" height="40"/>
   </a>
 
-  <!-- Database -->
+  <h3>Database</h3>
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
@@ -68,7 +68,7 @@
   </a>
   </div>
 
-  <!-- Tools -->
+  <h3>Tools</h3>
   <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
     <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
   </a>
